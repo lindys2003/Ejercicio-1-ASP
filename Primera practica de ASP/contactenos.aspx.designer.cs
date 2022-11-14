@@ -11,7 +11,7 @@ namespace Primera_practica_de_ASP
 {
 
 
-    public partial class _default
+    public partial class contactenos
     {
     }
 }
